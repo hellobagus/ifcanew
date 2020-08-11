@@ -1,0 +1,4 @@
+#Tue Aug 11 14:26:14 WIB 2020
+base.0=/Users/bagus/Documents/ifcaoplus-redux/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
